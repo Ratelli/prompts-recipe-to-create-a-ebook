@@ -21,20 +21,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título para um e-book para um trabalho escolar. O título deve falar sobre finanças, deve ser curto e causar impacto, o objetivo do e-book é ajudar pessoas economicamente vulneráveis a aprender a importância da educação financeira, me liste 5 variações de títulos.                                                      |
+| conteúdo | Crie capítulos breves para o e-book com base no objetivo de ajudar pessoas economicamente vulneráveis a aprender a importância da educação financeira || Crie conteúdo curto para cada capítulo.
 
 
-Midjourney：
+Microsoft Copilot：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Crie uma imagem com um cofre de porquinho, e um grafíco de investimento aumentando, me surpreenda! |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Microsoft Copilot
 
 ## 📚 Materiais
 
@@ -43,5 +43,3 @@ Midjourney：
 
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
